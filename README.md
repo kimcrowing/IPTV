@@ -132,25 +132,26 @@
 - [NET IP TV](https://play.google.com/store/apps/details?id=com.dnamedya.netiptv)
 - [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器。
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - Kodi的IPTV直播电视和广播PVR客户端插件。
-- [Perfect_Player](https://github.com/kimcrowing/IPTV/blob/master/Perfect_Player-Full-v1.5.8_build_58000-Mod.apk)媒体播放器。Perfect Player是机顶盒式IPTV /媒体播放器，可在电视，平板电脑和智能手机上观看视频。
+- [Perfect_Player](https://github.com/kimcrowing/IPTV/blob/master/Perfect_Player-Full-v1.5.8_build_58000-Mod.apk)媒体播放器。
+- Perfect Player是机顶盒式IPTV /媒体播放器，可在电视，平板电脑和智能手机上观看视频。
 
-该应用程序不包含任何频道，您需要为此在“设置”中添加播放列表。
-注意：要获得最佳播放体验，请尝试在“设置”中使用不同的“解码器”选项。
+- 该应用程序不包含任何频道，您需要为此在“设置”中添加播放列表。
+- 注意：要获得最佳播放体验，请尝试在“设置”中使用不同的“解码器”选项。
 
-特点：
--出色的OSD菜单和信息，以最少的用户操作即可轻松愉快地观看视频
--可缩放的OSD可在任何屏幕分辨率和所选字体大小下正确呈现
--带有频道组，徽标和EPG的IPTV观看
--本地文件观看（来自SDCard，USB等）
--支持的播放列表格式：M3U，
-XSPF-支持的EPG格式：XMLTV，JTV
--udpxy（UDP-TO-HTTP代理）服务器支持
--通过在“设置”中仅指定IPTV数据服务器地址，可以连接到IPTV数据服务器（Perfect Player的PC版本）以获取播放列表，EPG，徽标以及立即请求播放列表更新的功能
--可以通过遥控器，鼠标，键盘，等
--支持Perfect Cast IPTV-专为Perfect Player设计的远程控制应用程序
--大控制面板在屏幕尺寸较小的设备上非常有用（用两根手指触摸即可切换面板）
--扩展的EPG信息查看
--“完整版”可删除广告并增加了额外的功能。
+- 特点：
+- 出色的OSD菜单和信息，以最少的用户操作即可轻松愉快地观看视频
+- 可缩放的OSD可在任何屏幕分辨率和所选字体大小下正确呈现
+- 带有频道组，徽标和EPG的IPTV观看
+- 本地文件观看（来自SDCard，USB等）
+- 支持的播放列表格式：M3U，XSPF
+- 支持的EPG格式：XMLTV，JTV
+- udpxy（UDP-TO-HTTP代理）服务器支持
+- 通过在“设置”中仅指定IPTV数据服务器地址，可以连接到IPTV数据服务器（Perfect Player的PC版本）以获取播放列表，EPG，徽标以及立即请求播放列表更新的功能
+- 可以通过遥控器，鼠标，键盘，等
+- 支持Perfect Cast IPTV-专为Perfect Player设计的远程控制应用程序
+- 大控制面板在屏幕尺寸较小的设备上非常有用（用两根手指触摸即可切换面板）
+- 扩展的EPG信息查看
+- “完整版”可删除广告并增加了额外的功能。
 
 #### PlayStation 4 / Xbox One
 
