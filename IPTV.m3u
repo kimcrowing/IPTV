@@ -25,18 +25,6 @@ http://iptv.pdsu.edu.cn/hls/cctv10hd.m3u8
 http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 ,CCTV14HD
 http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 ,农林卫视
-http://stream.snrtv.com/sxtvs-nl.m3u8
-#EXTINF:-1 ,CCTV4
-http://ott.js.chinamobile.com/PLTV/3/224/3221227489/index.m3u8
-#EXTINF:-1 ,CCTV5
-http://ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
-#EXTINF:-1 ,CCTV11
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 ,CCTV12
-http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
-#EXTINF:-1 ,CCTV13
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8
 #EXTINF:-1 ,CCTV15
 http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8?
 #EXTINF:-1 ,HTV1
@@ -47,22 +35,150 @@ http://112.17.40.140/PLTV/88888888/224/3221226212/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226354/index.m3u8
 #EXTINF:-1 ,HTV6
 http://112.17.40.140/PLTV/88888888/224/3221226352/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227597/index.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://itv.ahau.edu.cn/hls/sjdltv.m3u8
+#EXTINF:-1 ,CCTV国防军事
+http://itv.ahau.edu.cn/hls/gfjstv.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://itv.ahau.edu.cn/hls/hjjctv.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://itv.ahau.edu.cn/hls/dyjctv.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://itv.ahau.edu.cn/hls/fyjctv.m3u8
+#EXTINF:-1 ,CCTV风云足球
+http://itv.ahau.edu.cn/hls/fyzqtv.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://itv.ahau.edu.cn/hls/fyyytv.m3u8
 #EXTINF:-1 ,东南卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226046/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227491/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227565/index.m3u8
-#EXTINF:-1 ,黑龙江台
-http://ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
+http://itv.ahau.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 ,东南卫视
+http://itv.ahau.edu.cn/hls/dntv.m3u8
+#EXTINF:-1 ,东方卫视
+http://itv.ahau.edu.cn/hls/hls69a24.m3u8
+#EXTINF:-1 ,东方卫视
+http://itv.ahau.edu.cn/hls/dftv.m3u8
+#EXTINF:-1 ,云南卫视
+http://itv.ahau.edu.cn/hls/yntv.m3u8
+#EXTINF:-1 ,兵团卫视
+http://itv.ahau.edu.cn/hls/bttv.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://itv.ahau.edu.cn/hls/nmtv.m3u8
+#EXTINF:-1 ,农林卫视
+http://itv.ahau.edu.cn/sxtvs-nl.m3u8
+#EXTINF:-1 ,北京卫视
+http://itv.ahau.edu.cn/hls/btv1.m3u8
+#EXTINF:-1 ,厦门卫视
+http://itv.ahau.edu.cn/hls/xmtv.m3u8
+#EXTINF:-1 ,吉林卫视
+http://itv.ahau.edu.cn/hls/jltv.m3u8
+#EXTINF:-1 ,四川卫视
+http://itv.ahau.edu.cn/hls/schd.m3u8
+#EXTINF:-1 ,四川卫视
+http://itv.ahau.edu.cn/hls/hls67a42.m3u8
+#EXTINF:-1 ,四川卫视
+http://itv.ahau.edu.cn/hls/sctv.m3u8
+#EXTINF:-1 ,天津卫视
+http://itv.ahau.edu.cn/hls/tjtv.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://itv.ahau.edu.cn/hls/nxtv.m3u8
+#EXTINF:-1 ,安徽卫视
+http://itv.ahau.edu.cn/hls/hls71a16.m3u8
+#EXTINF:-1 ,安徽卫视
+http://itv.ahau.edu.cn/hls/ahtv.m3u8
+#EXTINF:-1 ,山东卫视
+http://itv.ahau.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 ,山东卫视
+http://itv.ahau.edu.cn/hls/hls70a18.m3u8
+#EXTINF:-1 ,山东卫视
+http://itv.ahau.edu.cn/hls/sdtv.m3u8
+#EXTINF:-1 ,山西卫视
+http://itv.ahau.edu.cn/hls/sxrtv.m3u8
+#EXTINF:-1 ,广东卫视
+http://itv.ahau.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 ,广东卫视
+http://itv.ahau.edu.cn/hls/hls70a19.m3u8
+#EXTINF:-1 ,广东卫视
+http://itv.ahau.edu.cn/hls/gdtv.m3u8
+#EXTINF:-1 ,广西卫视
+http://itv.ahau.edu.cn/hls/gxtv.m3u8
+#EXTINF:-1 ,康巴卫视
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 ,新疆卫视
+http://itv.ahau.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1 ,旅游卫视
+http://itv.ahau.edu.cn/hls/lyhd.m3u8
+#EXTINF:-1 ,旅游卫视
+http://itv.ahau.edu.cn/hls/lytv.m3u8
+#EXTINF:-1 ,星空卫视
+http://itv.ahau.edu.cn/hls/startv.m3u8
 #EXTINF:-1 ,江苏卫视
-http://ott.js.chinamobile.com/PLTV/3/224/3221227561/index.m3u8
-#EXTINF:-1 ,百视通4K(移动网)
-http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+http://itv.ahau.edu.cn/hls/jstv.m3u8
+#EXTINF:-1 ,江西卫视
+http://itv.ahau.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 ,江西卫视
+http://itv.ahau.edu.cn/hls/jxtv.m3u8
+#EXTINF:-1 ,河北卫视
+http://itv.ahau.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1 ,河北卫视
+http://itv.ahau.edu.cn/hls/hebtv.m3u8
+#EXTINF:-1 ,河南卫视
+http://itv.ahau.edu.cn/hls/hnhd.m3u8
+#EXTINF:-1 ,河南卫视
+http://itv.ahau.edu.cn/hls/hntv.m3u8
+#EXTINF:-1 ,浙江卫视
+http://itv.ahau.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 ,浙江卫视
+http://itv.ahau.edu.cn/hls/jlu_zjhd.m3u8
+#EXTINF:-1 ,浙江卫视
+http://itv.ahau.edu.cn/hls/hls68a51.m3u8
+#EXTINF:-1 ,浙江卫视
+http://itv.ahau.edu.cn/hls/zjtv.m3u8
+#EXTINF:-1 ,深圳卫视
+http://itv.ahau.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 ,深圳卫视
+http://itv.ahau.edu.cn/hls/hls70a20.m3u8
+#EXTINF:-1 ,深圳卫视
+http://itv.ahau.edu.cn/hls/sztv.m3u8
+#EXTINF:-1 ,湖北卫视
+http://itv.ahau.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 ,湖北卫视
+http://itv.ahau.edu.cn/hls/hls70a17.m3u8
+#EXTINF:-1 ,湖北卫视
+http://itv.ahau.edu.cn/hls/hbtv.m3u8
+#EXTINF:-1 ,湖南卫视
+http://itv.ahau.edu.cn/hls/hunantv.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://itv.ahau.edu.cn/hls/gstv.m3u8
+#EXTINF:-1 ,西藏卫视
+http://itv.ahau.edu.cn/hls/xztv.m3u8
+#EXTINF:-1 ,贵州卫视
+http://itv.ahau.edu.cn/hls/gztv.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://itv.ahau.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://itv.ahau.edu.cn/hls/hls74a1.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://itv.ahau.edu.cn/hls/lntv.m3u8
+#EXTINF:-1 ,重庆卫视
+http://itv.ahau.edu.cn/hls/cqtv.m3u8
+#EXTINF:-1 ,重庆卫视
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225483/chunklist.m3u8
+#EXTINF:-1 ,陕西卫视
+http://itv.ahau.edu.cn/hls/sxtv.m3u8
+#EXTINF:-1 ,青海卫视
+http://itv.ahau.edu.cn/hls/qhtv.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://itv.ahau.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://itv.ahau.edu.cn/hls/hls71a14.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://itv.ahau.edu.cn/hls/hljtv.m3u8
+#EXTINF:-1 ,CETV1中教1
+http://itv.ahau.edu.cn/hls/cetv1.m3u8
+#EXTINF:-1 ,CETV1中教1(高清)
+http://itv.ahau.edu.cn/hls/cetv1hd.m3u8
+#EXTINF:-1 ,CETV1中教2(高清)
+http://itv.ahau.edu.cn/hls/hls67a45.m3u8
 #EXTINF:-1 ,CGTN
 http://iptv.pdsu.edu.cn/hls/cctv16.m3u8
 #EXTINF:-1 ,CGTNHD
