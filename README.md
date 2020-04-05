@@ -49,7 +49,6 @@
 - [江西广电直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/江西广电直播源.m3u)
 - [辽宁广电直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/辽宁广电直播源.m3u)
 - [央视+卫视+NewTV-来自广西移动直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/央视+卫视+NewTV广西移动源.m3u)
-- ~~[CCTV+卫视+上海江苏等地方台-咪咕代理源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+上海江苏等地方台-咪咕代理源.m3u)~~
 - [CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u)
 - [CCTV+卫视+地方台-安徽农大.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/安徽农大.m3u)
 - [CCTV+卫视-天途云.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/天途云.m3u)
@@ -128,18 +127,11 @@
 - [Movie Stream: Watch Smart IPTV ](https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244) - 启用Chromecast的应用程序，可让您将收藏的视频从移动设备流式传输到电视。
 - [nPlayer](https://apps.apple.com/cn/app/nplayer/id1116905928) - 支持播放列表文件：CUE、M3U、PLS
 
-#### Android
+#### Android+TV
 
 - [NET IP TV](https://play.google.com/store/apps/details?id=com.dnamedya.netiptv)
 - [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器。
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - Kodi的IPTV直播电视和广播PVR客户端插件。
-
-#### PlayStation 4 / Xbox One
-
-- [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) 客户端服务器媒体播放器。为了通过Plex App观看IPTV，可以使用 [Cigaras / IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) 插件。
-
-#### 安卓TV
-
 - [Perfect_Player](https://github.com/kimcrowing/IPTV/blob/master/Perfect_Player-Full-v1.5.8_build_58000-Mod.apk)媒体播放器。Perfect Player是机顶盒式IPTV /媒体播放器，可在电视，平板电脑和智能手机上观看视频。
 
 该应用程序不包含任何频道，您需要为此在“设置”中添加播放列表。
@@ -159,6 +151,10 @@ XSPF-支持的EPG格式：XMLTV，JTV
 -大控制面板在屏幕尺寸较小的设备上非常有用（用两根手指触摸即可切换面板）
 -扩展的EPG信息查看
 -“完整版”可删除广告并增加了额外的功能。
+
+#### PlayStation 4 / Xbox One
+
+- [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) 客户端服务器媒体播放器。为了通过Plex App观看IPTV，可以使用 [Cigaras / IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) 插件。
 
 ## 提供者
 
