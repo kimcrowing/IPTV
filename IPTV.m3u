@@ -67,12 +67,6 @@ http://iptv.pdsu.edu.cn/hls/gfjstv.m3u8
 http://iptv.pdsu.edu.cn/hls/sjdltv.m3u8
 #EXTINF:-1 ,CGTN
 http://iptv.pdsu.edu.cn/hls/cctv16.m3u8
-#EXTINF:-1 ,CETV1
-http://iptv.pdsu.edu.cn/hls/cetv1.m3u8
-#EXTINF:-1 ,CETV1HD
-http://iptv.pdsu.edu.cn/hls/cetv1hd.m3u8
-#EXTINF:-1 ,CETV3
-http://iptv.pdsu.edu.cn/hls/cetv3.m3u8
 #EXTINF:-1 ,CHC高清电影
 http://iptv.pdsu.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 ,CHC动作电影
