@@ -196,6 +196,8 @@ IPTV频道的EPG（电子节目指南）来源。
 - [epg.streamstv.me](http://epg.streamstv.me/epg/) 欧亚大陆和北美频道的节目指南。
 - [IPTVX|one](https://iptvx.one/viewtopic.php?f=12&t=4&sid=5d7f43099b396af229d5961ec746fc14) 主要用于CIS频道的节目指南。
 - [i.mjh.nz](http://i.mjh.nz/) 来自澳大利亚，新西兰和南非的频道的节目指南。
+- [EPG的频道列表](http://epg.51zmt.top:8000/) 自定义添加台标
+
 
 ## 工具类
 
