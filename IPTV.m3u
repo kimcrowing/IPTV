@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="中央电视台",CCTV1HD
+#EXTINF:-1 tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV1HD.png" group-title="中央电视台",CCTV1HD
 http://iptv.pdsu.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="中央电视台",CCTV2HD
 http://iptv.pdsu.edu.cn/hls/cctv2hd.m3u8
