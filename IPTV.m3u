@@ -27,10 +27,6 @@ http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8
 http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV15HD.png" group-title="央视频道",CCTV15HD
 http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV世界地理
-http://itv.ahau.edu.cn/hls/sjdltv.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV国防军事
-http://itv.ahau.edu.cn/hls/gfjstv.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
 http://itv.ahau.edu.cn/hls/hjjctv.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV第一剧场
@@ -45,6 +41,10 @@ http://itv.ahau.edu.cn/hls/fyyytv.m3u8
 http://itv.ahau.edu.cn/hls/cetv1hd.m3u8
 #EXTINF:-1 group-title="央视频道",CETV1中教2HD
 http://itv.ahau.edu.cn/hls/hls67a45.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+http://itv.ahau.edu.cn/hls/sjdltv.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV国防军事
+http://itv.ahau.edu.cn/hls/gfjstv.m3u8
 #EXTINF:-1 group-title="央视频道",环球电视网CGTNHD
 http://iptv.pdsu.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 group-title="央视频道",国家地理
