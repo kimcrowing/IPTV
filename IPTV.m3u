@@ -21,12 +21,12 @@ http://iptv.pdsu.edu.cn/hls/cctv8hd.m3u8
 http://iptv.pdsu.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV10HD.png" group-title="央视频道",CCTV10HD
 http://iptv.pdsu.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV11HD
-http://iptv.pdsu.edu.cn/hls/cctv11hd.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV11SD
+http://iptv.pdsu.edu.cn/hls/cctv11.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV12HD.png" group-title="央视频道",CCTV12HD
 http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13HD
-http://111.40.205.87/PLTV/88888888/224/3221225599/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13SD
+http://iptv.pdsu.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV14HD.png" group-title="央视频道",CCTV14HD
 http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV15HD.png" group-title="央视频道",CCTV15HD
