@@ -51,8 +51,6 @@ http://itv.ahau.edu.cn/hls/hls67a45.m3u8
 http://iptv.pdsu.edu.cn/hls/sjdltv.m3u8
 #EXTINF:-1 group-title="中央电视台",国防军事
 http://iptv.pdsu.edu.cn/hls/gfjstv.m3u8
-#EXTINF:-1 group-title="中央电视台",CGTN
-http://iptv.pdsu.edu.cn/hls/cctv16.m3u8
 #EXTINF:-1 group-title="中央电视台",CGTNHD
 http://iptv.pdsu.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 group-title="未分组",CHC高清电影
