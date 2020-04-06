@@ -27,7 +27,7 @@ http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8
 http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 group-title="中央电视台",CCTV15
 http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8
-#EXTINF:-1 group-title="中央电视台",CGTNHD
+#EXTINF:-1 group-title="中央电视台",环球电视网CGTNHD
 http://iptv.pdsu.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 group-title="中央电视台",国家地理
 http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
@@ -51,13 +51,11 @@ http://itv.ahau.edu.cn/hls/cetv1.m3u8
 http://itv.ahau.edu.cn/hls/cetv1hd.m3u8
 #EXTINF:-1 group-title="中央电视台",CETV1中教2(高清)
 http://itv.ahau.edu.cn/hls/hls67a45.m3u8
-#EXTINF:-1 group-title="未分组",CHC高清电影
+#EXTINF:-1 group-title="家庭影院频道",CHC高清电影
 http://iptv.pdsu.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 group-title="未分组",CHC高清电影
-http://iptv.pdsu.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 group-title="未分组",CHC动作电影
+#EXTINF:-1 group-title="家庭影院频道",CHC动作电影
 http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
-#EXTINF:-1 group-title="未分组",CHC家庭影院
+#EXTINF:-1 group-title="家庭影院频道",CHC家庭影院
 http://iptv.pdsu.edu.cn/hls/chctv.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视HD
 http://iptv.pdsu.edu.cn/hls/btv1hd.m3u8
@@ -99,26 +97,20 @@ http://iptv.pdsu.edu.cn/hls/szhd.m3u8
 http://iptv.pdsu.edu.cn/hls/schd.m3u8
 #EXTINF:-1 group-title="卫视频道",北京文艺HD
 http://iptv.pdsu.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 group-title="卫视频道",北京科教
-http://iptv.pdsu.edu.cn/hls/btv3.m3u8
 #EXTINF:-1 group-title="卫视频道",北京影视HD
 http://iptv.pdsu.edu.cn/hls/btv4hd.m3u8
 #EXTINF:-1 group-title="卫视频道",北京纪实HD
 http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 group-title="卫视频道",上海纪实
-http://iptv.pdsu.edu.cn/hls/docuchina.m3u8
-#EXTINF:-1 group-title="未分组",凤凰中文
+#EXTINF:-1 group-title="卫视频道",凤凰中文
 http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
-#EXTINF:-1 group-title="未分组",凤凰资讯
+#EXTINF:-1 group-title="卫视频道",凤凰资讯
 http://iptv.pdsu.edu.cn/hls/fhzx.m3u8
-#EXTINF:-1 group-title="未分组",凤凰电影
+#EXTINF:-1 group-title="卫视频道",凤凰电影
 http://iptv.pdsu.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1 group-title="未分组",星空卫视
+#EXTINF:-1 group-title="卫视频道",星空卫视
 http://iptv.pdsu.edu.cn/hls/startv.m3u8
-#EXTINF:-1 group-title="未分组",星空体育
+#EXTINF:-1 group-title="卫视频道",星空体育
 http://iptv.pdsu.edu.cn/hls/starsports.m3u8
-#EXTINF:-1 group-title="未分组",Channel[V]
-http://iptv.pdsu.edu.cn/hls/channelv.m3u8
 #EXTINF:-1 group-title="网络频道",爱奇艺_电影大片
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
 #EXTINF:-1 group-title="网络频道",爱奇艺_好莱坞大片
@@ -133,16 +125,14 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
 #EXTINF:-1 group-title="网络频道",爱奇艺_经典港片
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-#EXTINF:-1 group-title="网络频道",華數_院線大片
+#EXTINF:-1 group-title="网络频道",华数_院线大片
 http://hls-ott-zhibo.wasu.tv/live/357/index.m3u8
-#EXTINF:-1 group-title="网络频道",華數_驚悚懸疑
+#EXTINF:-1 group-title="网络频道",华数_惊悚悬疑
 http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8
-#EXTINF:-1 group-title="网络频道",華數_熱門網大
+#EXTINF:-1 group-title="网络频道",华数_熱門網大
 http://hls-ott-zhibo.wasu.tv/live/107_50459/index.m3u8
-#EXTINF:-1 group-title="网络频道",華數_動漫電影
+#EXTINF:-1 group-title="网络频道",华数_动漫电影
 http://hls-ott-zhibo.wasu.tv/live/356/index.m3u8
-#EXTINF:-1 group-title="网络频道",华数惊悚悬疑
-http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8
 #EXTINF:-1 group-title="网络频道",华数爱情电影
 http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
 #EXTINF:-1 group-title="网络频道",华数好莱坞大赏
