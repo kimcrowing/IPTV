@@ -9,7 +9,7 @@ http://iptv.pdsu.edu.cn/hls/cctv3hd.m3u8
 http://iptv.pdsu.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 group-title="中央电视台",CCTV5HD
 http://iptv.pdsu.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV5+
+#EXTINF:-1 group-title="中央电视台",CCTV5+HD
 http://iptv.pdsu.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 group-title="中央电视台",CCTV6HD
 http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
