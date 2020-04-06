@@ -137,51 +137,51 @@ http://iptv.pdsu.edu.cn/hls/starsports.m3u8
 http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
 #EXTINF:-1 group-title="未分组",Channel[V]
 http://iptv.pdsu.edu.cn/hls/channelv.m3u8
-#EXTINF:-1 group-title="未分组",爱奇艺_電影大片
+#EXTINF:-1 group-title="网络频道",爱奇艺_電影大片
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
-#EXTINF:-1 group-title="未分组",爱奇艺_好萊塢大片
+#EXTINF:-1 group-title="网络频道",爱奇艺_好萊塢大片
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
-#EXTINF:-1 group-title="未分组",爱奇艺_五星影院
+#EXTINF:-1 group-title="网络频道",爱奇艺_五星影院
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
-#EXTINF:-1 group-title="未分组",爱奇艺_動作電影
+#EXTINF:-1 group-title="网络频道",爱奇艺_動作電影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
-#EXTINF:-1 group-title="未分组",爱奇艺_黑幫電影
+#EXTINF:-1 group-title="网络频道",爱奇艺_黑幫電影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
-#EXTINF:-1 group-title="未分组",爱奇艺_喜劇電影
+#EXTINF:-1 group-title="网络频道",爱奇艺_喜劇電影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
-#EXTINF:-1 group-title="未分组",爱奇艺_經典港片
+#EXTINF:-1 group-title="网络频道",爱奇艺_經典港片
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-#EXTINF:-1 group-title="未分组",華數_院線大片
+#EXTINF:-1 group-title="网络频道",華數_院線大片
 http://hls-ott-zhibo.wasu.tv/live/357/index.m3u8
-#EXTINF:-1 group-title="未分组",華數_驚悚懸疑
+#EXTINF:-1 group-title="网络频道",華數_驚悚懸疑
 http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8
-#EXTINF:-1 group-title="未分组",華數_熱門網大
+#EXTINF:-1 group-title="网络频道",華數_熱門網大
 http://hls-ott-zhibo.wasu.tv/live/107_50459/index.m3u8
-#EXTINF:-1 group-title="未分组",華數_動漫電影
+#EXTINF:-1 group-title="网络频道",華數_動漫電影
 http://hls-ott-zhibo.wasu.tv/live/356/index.m3u8
-#EXTINF:-1 group-title="未分组",华数惊悚悬疑
+#EXTINF:-1 group-title="网络频道",华数惊悚悬疑
 http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8
-#EXTINF:-1 group-title="未分组",华数爱情电影
+#EXTINF:-1 group-title="网络频道",华数爱情电影
 http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
-#EXTINF:-1 group-title="未分组",华数好莱坞大赏
+#EXTINF:-1 group-title="网络频道",华数好莱坞大赏
 http://hls-ott-zhibo.wasu.tv/live/263/index.m3u8
-#EXTINF:-1 group-title="未分组",华数抗日剧场
+#EXTINF:-1 group-title="网络频道",华数抗日剧场
 http://hls-ott-zhibo.wasu.tv/live/258/index.m3u8
-#EXTINF:-1 group-title="未分组",青春音乐台
+#EXTINF:-1 group-title="网络频道",青春音乐台
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 group-title="未分组",电影-超级英雄
+#EXTINF:-1 group-title="网络频道",电影-超级英雄
 https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="未分组",电影-顶级科幻
+#EXTINF:-1 group-title="网络频道",电影-顶级科幻
 https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="未分组",电影-惊悚大片
+#EXTINF:-1 group-title="网络频道",电影-惊悚大片
 https://aldirect.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1_1200.m3u8
-#EXTINF:-1 group-title="未分组",电影-生化危机
+#EXTINF:-1 group-title="网络频道",电影-生化危机
 https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="未分组",电影-喜剧
+#EXTINF:-1 group-title="网络频道",电影-喜剧
 https://aldirect.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="未分组",女神電影
+#EXTINF:-1 group-title="网络频道",女神電影
 http://tx.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="未分组",古惑仔電影
+#EXTINF:-1 group-title="网络频道",古惑仔電影
 http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="国外频道",Milenio-TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
