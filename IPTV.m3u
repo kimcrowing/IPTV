@@ -33,7 +33,7 @@ http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
 http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频道",CCTV世界地理
 http://itv.ahau.edu.cn/hls/sjdltv.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV兵器科技
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视频道",CCTV兵器科技
 http://itv.ahau.edu.cn/hls/gfjstv.m3u8
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视频道",CCTV怀旧剧场
 http://itv.ahau.edu.cn/hls/hjjctv.m3u8
