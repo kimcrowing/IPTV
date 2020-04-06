@@ -47,9 +47,13 @@ http://itv.ahau.edu.cn/hls/cetv1.m3u8
 http://itv.ahau.edu.cn/hls/cetv1hd.m3u8
 #EXTINF:-1 group-title="中央电视台",CETV1中教2(高清)
 http://itv.ahau.edu.cn/hls/hls67a45.m3u8
-#EXTINF:-1 group-title="未分组",CGTN
+#EXTINF:-1 group-title="中央电视台",世界地理
+http://iptv.pdsu.edu.cn/hls/sjdltv.m3u8
+#EXTINF:-1 group-title="中央电视台",国防军事
+http://iptv.pdsu.edu.cn/hls/gfjstv.m3u8
+#EXTINF:-1 group-title="中央电视台",CGTN
 http://iptv.pdsu.edu.cn/hls/cctv16.m3u8
-#EXTINF:-1 group-title="未分组",CGTNHD
+#EXTINF:-1 group-title="中央电视台",CGTNHD
 http://iptv.pdsu.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 group-title="未分组",CHC高清电影
 http://iptv.pdsu.edu.cn/hls/chchd.m3u8
@@ -61,12 +65,6 @@ http://iptv.pdsu.edu.cn/hls/fyjctv.m3u8
 http://iptv.pdsu.edu.cn/hls/fyyytv.m3u8
 #EXTINF:-1 group-title="未分组",怀旧剧场
 http://iptv.pdsu.edu.cn/hls/hjjctv.m3u8
-#EXTINF:-1 group-title="未分组",国防军事
-http://iptv.pdsu.edu.cn/hls/gfjstv.m3u8
-#EXTINF:-1 group-title="未分组",世界地理
-http://iptv.pdsu.edu.cn/hls/sjdltv.m3u8
-#EXTINF:-1 group-title="未分组",CGTN
-http://iptv.pdsu.edu.cn/hls/cctv16.m3u8
 #EXTINF:-1 group-title="未分组",CHC高清电影
 http://iptv.pdsu.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="未分组",CHC动作电影
