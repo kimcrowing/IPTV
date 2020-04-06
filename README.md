@@ -226,3 +226,4 @@ IPTV频道的EPG（电子节目指南）来源。
 ## 文章
 - [IPTV M3U FREE - IPTV Links](https://iptvgratuit.xyz/)
 - [python iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker)
+- [直播源类别格式转换](https://guihet.com/tvlistconvert.html)
