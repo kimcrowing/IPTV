@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV1HD.png" group-title="央视频道",CCTV1HD
 http://iptv.pdsu.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV2HD.png" group-title="央视频道",CCTV2HD
