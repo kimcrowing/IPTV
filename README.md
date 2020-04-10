@@ -133,6 +133,7 @@
 - [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器。
   - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - Kodi的IPTV直播电视和广播PVR客户端插件。
 - [Perfect_Player](https://github.com/kimcrowing/IPTV/blob/master/Perfect_Player-Full-v1.5.8_build_58000-Mod.apk)媒体播放器。
+- [Perfect_Player](https://guihet.com/perfect-player.html)使用指南。
 - Perfect Player是机顶盒式IPTV /媒体播放器，可在电视，平板电脑和智能手机上观看视频。
 
 - 该应用程序不包含任何频道，您需要为此在“设置”中添加播放列表。
