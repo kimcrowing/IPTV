@@ -39,7 +39,7 @@ http://itv.ahau.edu.cn/hls/cetv1hd.m3u8
 http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CETV3" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CETV3HD.png" group-title="央视频道",CETV3HD
 http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频道",CCTV世界地理
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTVshijiedili.png" group-title="央视频道",CCTV世界地理
 http://itv.ahau.edu.cn/hls/sjdltv.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视频道",CCTV兵器科技
 http://itv.ahau.edu.cn/hls/gfjstv.m3u8
