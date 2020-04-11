@@ -117,19 +117,19 @@ http://iptv.pdsu.edu.cn/hls/chchd.m3u8
 http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="家庭影院频道",CHC家庭影院
 http://iptv.pdsu.edu.cn/hls/chctv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",爱奇艺_电影大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/iqiyi.png" group-title="网络频道",爱奇艺_精选电影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",爱奇艺_好莱坞大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/iqiyi.png" group-title="网络频道",爱奇艺_好莱坞
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",爱奇艺_五星影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/iqiyi.png" group-title="网络频道",爱奇艺_五星影院
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",爱奇艺_动作电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/iqiyi.png" group-title="网络频道",爱奇艺_动作电影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",爱奇艺_电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/iqiyi.png" group-title="网络频道",爱奇艺_黑帮电影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",爱奇艺_电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/iqiyi.png" group-title="网络频道",爱奇艺_喜剧电影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",爱奇艺_经典港片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/iqiyi.png" group-title="网络频道",爱奇艺_经典港片
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",华数_院线大片
 http://hls-ott-zhibo.wasu.tv/live/357/index.m3u8
