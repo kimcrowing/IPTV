@@ -75,7 +75,7 @@ http://iptv.pdsu.edu.cn/hls/cqhd.m3u8
 http://iptv.pdsu.edu.cn/hls/hljhd.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/liaoningHD.png" group-title="卫视频道",辽宁卫视HD
 http://iptv.pdsu.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/neimenggu.png" group-title="卫视频道",内蒙古卫视
 http://iptv.pdsu.edu.cn/hls/nmtv.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/hebeiHD.png" group-title="卫视频道",河北卫视HD
 http://iptv.pdsu.edu.cn/hls/hebhd.m3u8
