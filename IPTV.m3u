@@ -133,19 +133,19 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/iqiyi.png" group-title="网络频道",爱奇艺_经典港片
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",华数_院线大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/huashu.png" group-title="网络频道",华数_院线大片
 http://hls-ott-zhibo.wasu.tv/live/357/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",华数_惊悚悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/huashu.png" group-title="网络频道",华数_惊悚悬疑
 http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",华数_热门网大
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/huashu.png" group-title="网络频道",华数_热门网大
 http://hls-ott-zhibo.wasu.tv/live/107_50459/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",华数_动漫电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/huashu.png" group-title="网络频道",华数_动漫电影
 http://hls-ott-zhibo.wasu.tv/live/356/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",华数爱情电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/huashu.png" group-title="网络频道",华数爱情电影
 http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",华数好莱坞大赏
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/huashu.png" group-title="网络频道",华数好莱坞大赏
 http://hls-ott-zhibo.wasu.tv/live/263/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",华数抗日剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/huashu.png" group-title="网络频道",华数抗日剧场
 http://hls-ott-zhibo.wasu.tv/live/258/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",青春音乐台
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
