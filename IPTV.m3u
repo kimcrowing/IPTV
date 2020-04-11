@@ -107,11 +107,11 @@ http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
 http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/fenghuangzixun.png" group-title="卫视频道",凤凰资讯
 http://iptv.pdsu.edu.cn/hls/fhzx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/fenghuangch.png" group-title="卫视频道",凤凰电影
+#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/fenghuangch.png" group-title="卫视频道",凤凰电影
 http://iptv.pdsu.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/xingkong.png" group-title="卫视频道",星空卫视
+#EXTINF:-1 tvg-id="" tvg-name="星空卫视" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/xingkong.png" group-title="卫视频道",星空卫视
 http://iptv.pdsu.edu.cn/hls/startv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/xingkong.png" group-title="卫视频道",星空体育
+#EXTINF:-1 tvg-id="" tvg-name="星空体育" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/xingkong.png" group-title="卫视频道",星空体育
 http://iptv.pdsu.edu.cn/hls/starsports.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="家庭影院频道",CHC高清电影
 http://iptv.pdsu.edu.cn/hls/chchd.m3u8
