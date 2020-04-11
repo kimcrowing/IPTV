@@ -95,6 +95,8 @@ http://iptv.pdsu.edu.cn/hls/gdhd.m3u8
 http://iptv.pdsu.edu.cn/hls/szhd.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/sichuanHD.png" group-title="卫视频道",四川卫视HD
 http://iptv.pdsu.edu.cn/hls/schd.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="贵州卫视" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/guizhouHD.png" group-title="卫视频道",贵州卫视
+http://iptv.pdsu.edu.cn/hls/gztv.m3u8
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="卫视频道",北京文艺HD
 http://iptv.pdsu.edu.cn/hls/btv2hd.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="卫视频道",北京影视HD
