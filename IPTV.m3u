@@ -33,6 +33,12 @@ http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV17HD.png" group-title="央视频道",CCTV17HD
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="CETV1" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CETV1.png" group-title="央视频道",CETV1HD
+http://itv.ahau.edu.cn/hls/cetv1hd.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="CETV2" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CETV2.png" group-title="央视频道",CETV2HD
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CETV3" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CETV3.png" group-title="央视频道",CETV3HD
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频道",CCTV世界地理
 http://itv.ahau.edu.cn/hls/sjdltv.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视频道",CCTV兵器科技
@@ -47,8 +53,6 @@ http://itv.ahau.edu.cn/hls/fyjctv.m3u8
 http://itv.ahau.edu.cn/hls/fyzqtv.m3u8
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视频道",CCTV风云音乐
 http://itv.ahau.edu.cn/hls/fyyytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CETV1.png" group-title="央视频道",CETV1HD
-http://itv.ahau.edu.cn/hls/cetv1hd.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视频道",环球电视网CGTNHD
 http://iptv.pdsu.edu.cn/hls/cgtnhd.m3u8
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="央视频道",国家地理
