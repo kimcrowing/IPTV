@@ -25,7 +25,7 @@ http://iptv.pdsu.edu.cn/hls/cctv10hd.m3u8
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV12HD.png" group-title="央视频道",CCTV12HD
 http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV13HD
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/kimcrowing/IPTV/master/CCTV/CCTV13HD.png" group-title="央视频道",CCTV13HD
 http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV14HD.png" group-title="央视频道",CCTV14HD
 http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
