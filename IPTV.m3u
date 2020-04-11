@@ -30,7 +30,9 @@ http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV14HD.png" group-title="央视频道",CCTV14HD
 http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV15HD.png" group-title="央视频道",CCTV15HD
-http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV17HD.png" group-title="央视频道",CCTV17HD
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频道",CCTV世界地理
 http://itv.ahau.edu.cn/hls/sjdltv.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视频道",CCTV兵器科技
