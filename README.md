@@ -1,5 +1,6 @@
+# Welcome to the IPTV wiki!
 
-# 直播源相关资源汇总
+# [直播源相关资源汇总](https://github.com/kimcrowing/IPTV/wiki)
 
 现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视。
 
@@ -9,8 +10,8 @@
 
 ## 目录
 
-- [稳定直播源URL](#稳定地址)
-- [工具](#工具)
+- [稳定直播源](https://github.com/kimcrowing/IPTV/wiki/%E7%A8%B3%E5%AE%9A%E7%9B%B4%E6%92%AD%E6%BA%90)
+- [常用直播软件](https://github.com/kimcrowing/IPTV/wiki/%E5%B8%B8%E7%94%A8%E7%9B%B4%E6%92%AD%E8%BD%AF%E4%BB%B6)
 - [插件](#插件)
 - [视频教程](#视频教程)
 - [文章](#文章)
@@ -38,125 +39,6 @@
     - 更新 IPTV 工具
   - 20180614
     - 更新 CCTV等世界杯相关HD播放源
-
-## 稳定地址
-
-- [世界各地的8000多个公共IPTV频道](iptv.md)
-
-全国可用直播源：
-- [中国广电cctv+卫视直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/中国广电cctv卫视.m3u)
-- [湖北广电直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/湖北广电直播源.m3u)
-- [江西广电直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/江西广电直播源.m3u)
-- [辽宁广电直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/辽宁广电直播源.m3u)
-- [央视+卫视+NewTV-来自广西移动直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/央视+卫视+NewTV广西移动源.m3u)
-- [CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u)
-- [CCTV+卫视+地方台-安徽农大.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/安徽农大.m3u)
-- [CCTV+卫视-天途云.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/天途云.m3u)
-- [国内电视台直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/国内.m3u) (CCTV、各大卫视、上千个地方台)
-- [台湾香港海外直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港海外.m3u) 2020.01.08更新 (台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国)
-- [爱奇艺CIBN华数NewTV轮播直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/轮播_爱奇艺CIBN华数NewTV虎牙战旗.m3u)2019.12更新
-- [景区直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/全国景区源.m3u)
-
-各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商：
-- [北京联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/北京联通.m3u)
-- [北京移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/北京移动IPTV.m3u)
-- [山西联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山西联通iptv.m3u)
-- [陕西电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/陕西电信.m3u)
-- [陕西地方台直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/陕西地方台.m3u)
-- [安徽电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/安徽电信IPTV.m3u)
-- [福建移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/福建移动iptv.m3u)
-- [福建移动2IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/福建移动2.m3u)
-- [贵州联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/贵州联通.m3u)
-- [云南移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/云南移动.m3u)
-- [四川电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/四川电信IPTV.m3u)
-- [四川成都电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/四川成都电信IPTV.m3u)
-- [重庆电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/重庆电信IPTV.m3u)
-- [湖南电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/湖南电信IPTV.m3u)
-- [湖南移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/湖南移动.m3u)
-- [广东电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/广东电信IPTV.m3u)
-- [广西联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/广西联通IPTV.m3u)
-- [河北电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/河北电信IPTV.m3u)
-- [上海电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/上海电信iptv.m3u)
-- [江苏电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/江苏电信.m3u)
-- [江苏南京电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/江苏南京电信.m3u)
-- [江苏移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/江苏移动.m3u)
-- [浙江移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/浙江移动IPTV.m3u)
-- [浙江杭州移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/浙江省杭州市移动.m3u)
-- [辽宁联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/辽宁联通.m3u)
-- [辽宁电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/辽宁电信.m3u)
-- [黑龙江移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/黑龙江移动iptv.m3u)
-- [黑龙江移动2IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/黑龙江移动.m3u)
-- [内蒙古联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/内蒙古联通.m3u)
-- [山东电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山东电信IPTV带台标.m3u)
-- [山东移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山东移动IPTV201912.m3u)
-- [山东联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山东联通iptv.m3u)
-- [山东青岛联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山东青岛联通.m3u)
-- [山东有线IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山东有线.m3u)
-
-## 工具
-
-支持IPTV流的应用程序。
-
-#### Windows
-
-- [VLC for Windows](https://www.videolan.org/vlc/download-windows.html) 免费开放源代码的便携式跨平台媒体播放器。
-- [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器。
-  - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - Kodi的IPTV直播电视和广播PVR客户端插件。
-
-#### MacOS
-
-- [VLC for Mac OS X](https://www.videolan.org/vlc/download-macosx.html) 免费和开放源代码的便携式跨平台媒体播放器。
-- [IINA](https://iina.io/) - 适用于macOS的现代媒体播放器。
-- [Kodi](https://kodi.tv/) - 具有库支持的免费跨平台媒体播放器。
-  - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - Kodi的IPTV直播电视和广播PVR客户端插件。
-
-#### AppleTV
-
-- [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801)
-  - 使用指南
-    1. 打开iPlayTV 点击 ➕号;
-    2. 选择 Remote Playlist File;
-    3. 第一行随意输入一个名字;
-    4. 第二行输入上面给你的地址;
-    5. 第三行不用管;
-    6. 点 save 即可;
-
-#### iOS
-
-- [GSE SMART IPTV](https://apps.apple.com/us/app/gse-smart-iptv/id1028734023) 完整的用户定义的高级IPTV解决方案，用于实时和非实时电视/流。
-- [Movie Stream: Watch Smart IPTV ](https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244) - 启用Chromecast的应用程序，可让您将收藏的视频从移动设备流式传输到电视。
-- [nPlayer](https://apps.apple.com/cn/app/nplayer/id1116905928) - 支持播放列表文件：CUE、M3U、PLS
-
-#### Android+TV
-
-- [NET IP TV](https://play.google.com/store/apps/details?id=com.dnamedya.netiptv)
-- [Kodi](https://kodi.tv/) 具有库支持的免费跨平台媒体播放器。
-  - [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - Kodi的IPTV直播电视和广播PVR客户端插件。
-- [Perfect_Player](https://github.com/kimcrowing/IPTV/blob/master/Perfect_Player-Full-v1.5.8_build_58000-Mod.apk)媒体播放器。
-- [Perfect_Player](https://guihet.com/perfect-player.html)使用指南。
-- Perfect Player是机顶盒式IPTV /媒体播放器，可在电视，平板电脑和智能手机上观看视频。
-
-- 该应用程序不包含任何频道，您需要为此在“设置”中添加播放列表。
-- 注意：要获得最佳播放体验，请尝试在“设置”中使用不同的“解码器”选项。
-
-- 特点：
-- 出色的OSD菜单和信息，以最少的用户操作即可轻松愉快地观看视频
-- 可缩放的OSD可在任何屏幕分辨率和所选字体大小下正确呈现
-- 带有频道组，徽标和EPG的IPTV观看
-- 本地文件观看（来自SDCard，USB等）
-- 支持的播放列表格式：M3U，XSPF
-- 支持的EPG格式：XMLTV，JTV
-- udpxy（UDP-TO-HTTP代理）服务器支持
-- 通过在“设置”中仅指定IPTV数据服务器地址，可以连接到IPTV数据服务器（Perfect Player的PC版本）以获取播放列表，EPG，徽标以及立即请求播放列表更新的功能
-- 可以通过遥控器，鼠标，键盘，等
-- 支持Perfect Cast IPTV-专为Perfect Player设计的远程控制应用程序
-- 大控制面板在屏幕尺寸较小的设备上非常有用（用两根手指触摸即可切换面板）
-- 扩展的EPG信息查看
-- “完整版”可删除广告并增加了额外的功能。
-
-#### PlayStation 4 / Xbox One
-
-- [Plex](https://www.plex.tv/apps-devices/#modal-devices-playstation-4) 客户端服务器媒体播放器。为了通过Plex App观看IPTV，可以使用 [Cigaras / IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) 插件。
 
 ## 提供者
 
