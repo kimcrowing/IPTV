@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV1HD.png" group-title="央视频道",CCTV1HD
-http://iptv.pdsu.edu.cn/hls/cctv1hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV2HD.png" group-title="央视频道",CCTV2HD
-http://iptv.pdsu.edu.cn/hls/cctv2hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV3HD.png" group-title="央视频道",CCTV3HD
-http://iptv.pdsu.edu.cn/hls/cctv3hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV4HD.png" group-title="央视频道",CCTV4HD
-http://iptv.pdsu.edu.cn/hls/cctv4hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV5HD.png" group-title="央视频道",CCTV5HD
 http://iptv.pdsu.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV5+HD.png" group-title="央视频道",CCTV5+HD
-http://iptv.pdsu.edu.cn/hls/cctv5phd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV6HD.png" group-title="央视频道",CCTV6HD
-http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV7HD.png" group-title="央视频道",CCTV7HD
-http://iptv.pdsu.edu.cn/hls/cctv7hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV8HD.png" group-title="央视频道",CCTV8HD
-http://iptv.pdsu.edu.cn/hls/cctv8hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV9HD.png" group-title="央视频道",CCTV9HD
-http://iptv.pdsu.edu.cn/hls/cctv9hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV10HD.png" group-title="央视频道",CCTV10HD
-http://iptv.pdsu.edu.cn/hls/cctv10hd.m3u8
+http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/kimcrowing/IPTV/master/CCTV/CCTV11HD.png" group-title="央视频道",CCTV11HD
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV12HD.png" group-title="央视频道",CCTV12HD
