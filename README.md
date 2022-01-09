@@ -1,5 +1,5 @@
 # Welcome to the IPTV wiki!
-在线直播源地址https://kimcrowing.github.io/iptv/index.m3u
+
 # [wiki直播源相关资源汇总](https://github.com/kimcrowing/IPTV/wiki)
 
 现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视。
@@ -17,7 +17,7 @@
 - [文章](#文章)
 
 
-### 更新
+### 更新（不在更新具体内容）
   - 20200108
     - 新增辽宁电信IPTV直播源
     - 新增中国广电cctv+卫视直播源
