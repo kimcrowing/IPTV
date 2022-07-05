@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV-1高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV-2高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000295?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV-3高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000302?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV-4高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000342?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV-5高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000304?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV5+高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000230?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视频道",CCTV-6高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000305?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视频道",CCTV-7高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000290?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视频道",CCTV-8高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000307?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视频道",CCTV-9高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000294?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV-10高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000293?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV-11高清
+http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV-12高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000292?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV-13高清
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV-14高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000291?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV-15高清
+http://39.134.65.173/PLTV/88888888/224/3221225513/1.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV-16高清
+http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000346?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV新闻高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV影视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV社会高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000375?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV社会高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000368?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV时尚高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000369?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV娱乐高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000370?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV公共农村
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000376?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV少儿高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000374?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV科教高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV移动高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000384?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="27" tvg-name="湖南地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方卫视",湖南地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000228?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="28" tvg-name="浙江地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="地方卫视",浙江地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000224?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="29" tvg-name="江苏地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="地方卫视",江苏地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000225?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="32" tvg-name="安徽地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="地方卫视",安徽地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000296?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="33" tvg-name="广东地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="地方卫视",广东地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000221?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="30" tvg-name="北京地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方卫视",北京地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="39" tvg-name="天津地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="地方卫视",天津地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000223?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="地方卫视",辽宁地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000260?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="31" tvg-name="东方地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="地方卫视",东方地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000232?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="34" tvg-name="深圳地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="地方卫视",深圳地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000226?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="45" tvg-name="河北地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方卫视",河北地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000341?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",黑龙江卫高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000227?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="50" tvg-name="江西地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="地方卫视",江西地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000378?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="56" tvg-name="四川地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="地方卫视",四川地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000377?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="41" tvg-name="东南地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="地方卫视",东南地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000379?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="44" tvg-name="贵州地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="地方卫视",贵州地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000340?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="48" tvg-name="湖北地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="地方卫视",湖北地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000222?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="38" tvg-name="山东地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="地方卫视",山东地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000261?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="37" tvg-name="旅游地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="地方卫视",海南地方卫视高清
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000385?AuthInfo=xxx&amp;userid=
