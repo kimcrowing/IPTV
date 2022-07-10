@@ -83,8 +83,6 @@ rtp://235.254.198.227:7980
 rtp://235.254.198.233:7980
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",酉阳综合
 rtp://235.254.198.236:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",秀山综合
-rtp://235.254.198.239:7980
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视超高清
 rtp://235.254.198.62:1524
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视超高清
