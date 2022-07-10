@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中央频道",﻿CCTV1高清
-rtp://235.254.198.51:1480
+rtp://235.254.199.1:7980
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中央频道",CCTV2高清
 rtp://235.254.198.52:1484
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中央频道",CCTV3高清
