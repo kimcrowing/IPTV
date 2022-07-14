@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视频道",CCTV4K
+http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV-1高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV-2高清
