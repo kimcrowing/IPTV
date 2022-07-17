@@ -109,3 +109,5 @@ http://43.142.97.116:5244/d/Onedrive/Movies/%5B%E6%B5%B7%E5%BA%95%E6%80%BB%E5%8A
 http://43.142.97.116:5244/d/Onedrive/Movies/%E7%A5%9E%E5%81%B7%E5%A5%B6%E7%88%B81/Despicable.Me.2010.mkv
 #EXTINF:-1 tvg-id="" tvg-name="CCT" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="动画片",﻿超级飞侠
 http://43.142.97.116:5244/d/Onedrive/Episodes/%E8%B6%85%E7%BA%A7%E9%A3%9E%E4%BE%A0%20(2014)/Season%209/%E8%B6%85%E7%BA%A7%E9%A3%9E%E4%BE%A0%20-%20S09E01%20-%20%E8%B6%85%E7%BA%A7%E5%98%89%E5%B9%B4%E5%8D%8E.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://43.142.97.116:5244/d/Onedrive/Movies/%5B%E7%8E%A9%E5%85%B7%E6%80%BB%E5%8A%A8%E5%91%984%5D.Toy.Story.4.2019.BluRay.2160p.x265.10bit.HDR.3Audio.mUHD-FRDS/Toy.Story.4.2019.BluRay.2160p.x265.10bit.HDR.3Audio.mUHD-FRDS-poster.jpg" group-title="电影",﻿玩具总动员4
+http://43.142.97.116:5244/d/Onedrive/Movies/%5B%E7%8E%A9%E5%85%B7%E6%80%BB%E5%8A%A8%E5%91%984%5D.Toy.Story.4.2019.BluRay.2160p.x265.10bit.HDR.3Audio.mUHD-FRDS/Toy.Story.4.2019.BluRay.2160p.x265.10bit.HDR.3Audio.mUHD-FRDS.mkv
