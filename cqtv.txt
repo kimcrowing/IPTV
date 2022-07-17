@@ -81,7 +81,7 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000232?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000226?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="45" tvg-name="河北地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="地方卫视",河北地方卫视高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000341?AuthInfo=xxx&amp;userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",黑龙江卫高清
+#EXTINF:-1 tvg-id="41" tvg-name="黑龙江地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="地方卫视",黑龙江卫视高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000227?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="50" tvg-name="江西地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="地方卫视",江西地方卫视高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000378?AuthInfo=xxx&amp;userid=
