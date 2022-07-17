@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="电影",﻿123
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="电影",﻿123
 http://43.142.97.116:5244/d/Onedrive/Movies/%5B%E5%AF%BB%E6%A2%A6%E7%8E%AF%E6%B8%B8%E8%AE%B0%5D.Coco.2017.BluRay.2160p.265.10bit.HDR.5Audio.mUHD-FRDS/Coco.2017.BluRay.2160p.265.10bit.HDR.5Audio.mUHD-FRDS.mkv
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中央频道",﻿超级飞侠
+#EXTINF:-1 tvg-id="" tvg-name="CCT" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中央频道",﻿超级飞侠
 http://43.142.97.116:5244/d/Onedrive/Episodes/%E8%B6%85%E7%BA%A7%E9%A3%9E%E4%BE%A0%20(2014)/Season%209/%E8%B6%85%E7%BA%A7%E9%A3%9E%E4%BE%A0%20-%20S09E01%20-%20%E8%B6%85%E7%BA%A7%E5%98%89%E5%B9%B4%E5%8D%8E.mp4
