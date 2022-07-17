@@ -37,6 +37,10 @@ http://39.134.65.173/PLTV/88888888/224/3221225513/1.m3u8
 http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000346?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="80" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CHC1.png" group-title="CHC频道",CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CHC3.png" group-title="CHC频道",CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV地方卫视高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV新闻高清
