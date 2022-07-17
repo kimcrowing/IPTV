@@ -101,3 +101,9 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000222?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000261?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="37" tvg-name="旅游地方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="地方卫视",海南地方卫视高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000385?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://43.142.97.116:5244/d/Onedrive/Movies/%5B%E6%81%90%E9%BE%99%E5%BD%93%E5%AE%B6%5D.The.Good.Dinosaur.2015.HK.BluRay.3Audio.1080p.DTS-HD.MA.7.1.x264-BeAst/The.Good.Dinosaur.2015.HK.BluRay.3Audio.1080p.DTS-HD.MA.7.1.x264-Le-poster.jpg" group-title="电影",﻿恐龙当家
+http://43.142.97.116:5244/d/Onedrive/Movies/%5B%E6%81%90%E9%BE%99%E5%BD%93%E5%AE%B6%5D.The.Good.Dinosaur.2015.HK.BluRay.3Audio.1080p.DTS-HD.MA.7.1.x264-BeAst/The.Good.Dinosaur.2015.HK.BluRay.3Audio.1080p.DTS-HD.MA.7.1.x264-Le.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://43.142.97.116:5244/d/Onedrive/Movies/%5B%E6%B5%B7%E5%BA%95%E6%80%BB%E5%8A%A8%E5%91%982%EF%BC%9A%E5%A4%9A%E8%8E%89%E5%8E%BB%E5%93%AA%E5%84%BF%5D.Finding.Dory.2016.1080p.BluRay.x264.DTS-WiKi/Finding.Dory.2016.1080p.BluRay.x264.DTS-Le-poster.jpg" group-title="电影",﻿海底总动员2：寻找多莉
+http://43.142.97.116:5244/d/Onedrive/Movies/%5B%E6%B5%B7%E5%BA%95%E6%80%BB%E5%8A%A8%E5%91%982%EF%BC%9A%E5%A4%9A%E8%8E%89%E5%8E%BB%E5%93%AA%E5%84%BF%5D.Finding.Dory.2016.1080p.BluRay.x264.DTS-WiKi/Finding.Dory.2016.1080p.BluRay.x264.DTS-Le.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CCT" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="动画片",﻿超级飞侠
+http://43.142.97.116:5244/d/Onedrive/Episodes/%E8%B6%85%E7%BA%A7%E9%A3%9E%E4%BE%A0%20(2014)/Season%209/%E8%B6%85%E7%BA%A7%E9%A3%9E%E4%BE%A0%20-%20S09E01%20-%20%E8%B6%85%E7%BA%A7%E5%98%89%E5%B9%B4%E5%8D%8E.mp4
