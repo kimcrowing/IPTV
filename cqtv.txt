@@ -169,4 +169,3 @@ http://43.142.97.116:5244/d/Onedrive/Movies/%E5%A5%87%E5%BC%82%E5%8D%9A%E5%A3%AB
 http://43.142.97.116:5244/d/Onedrive/Movies/%5B%E5%A7%90%E5%BC%9F%E6%81%8B%5D.The.Rebound.2009.BluRay.1080p.x265.10bit.AC3-CMCT/%5B%E5%A7%90%E5%BC%9F%E6%81%8B%5D.The.Rebound.2009.BluRay.1080p.x265.10bit.AC3-CMCT.mkv
 tvg-logo="http://43.142.97.116:5244/d/Onedrive/Movies/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/%5B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%5D.Artificial.Intelligence.AI.2001.Bluray.720p.x264.AC3-CMCT-poster.jpg" group-title="影院电影",人工智能2001
 http://43.142.97.116:5244/d/Onedrive/Movies/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/%5B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%5D.Artificial.Intelligence.AI.2001.Bluray.720p.x264.AC3-CMCT.mkv
-
