@@ -43,21 +43,19 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/kimcrowing/IPTV/master/statetv/cqtv.png" group-title="重庆频道",CQTV重庆卫视高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?AuthInfo=xxx&amp;userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV新闻高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/kimcrowing/IPTV/master/statetv/cqxinwen.png" group-title="重庆频道",CQTV新闻高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV影视高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&amp;userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV社会高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV社会与法
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000375?AuthInfo=xxx&amp;userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV社会高清
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000368?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV时尚高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000369?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV娱乐高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000370?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV公共农村
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000376?AuthInfo=xxx&amp;userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV少儿高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/kimcrowing/IPTV/master/statetv/cqshaoer.png" group-title="重庆频道",CQTV少儿高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000374?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="重庆频道",CQTV科教高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&amp;userid=
