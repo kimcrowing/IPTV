@@ -22,15 +22,15 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000294?AuthInfo=xxx
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视频道",CCTV-10高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000293?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视频道",CCTV-11高清
-rtsp://123.147.113.84:554/04000001/0100000000400000000000000000089?AuthInfo=xxx&amp;userid=
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000389?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视频道",CCTV-12高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000292?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视频道",CCTV-13高清
-rtsp://123.147.113.84:554/04000001/0100000000400000000000000000087?AuthInfo=xxx&amp;userid=
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000387?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视频道",CCTV-14高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000291?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视频道",CCTV-15高清
-rtsp://123.147.113.84:554/04000001/0100000000400000000000000000088?AuthInfo=xxx&amp;userid=
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000388?AuthInfo=xxx&amp;userid=
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视频道",CCTV-16高清
 http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17高清
