@@ -65,6 +65,7 @@ IPTV提供商列表。
 - [Connecktik TV](http://connectik.tv/) - 喀麦隆直播电视频道。
 - [Necro IPTV](https://necroiptv.com/) 提供所有优质的英国，爱尔兰，德国，土耳其，阿拉伯语，美国和加拿大频道。
 - [Edem.tv](https://edem.tv/) - 超过400个俄罗斯IPTV频道和4天的节目存档。
+- [IPTV Player Stream](https://iptvplayer.stream/) - Online IPTV Player。
 
 ## 渠道数据源
 
