@@ -94,6 +94,12 @@ IPTV频道的EPG（电子节目指南）来源。
 - [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — Node.js的IPTV播放列表检查器
 - [Streamtest](https://streamtest.in/) 免费且易于使用的基于Web的流测试器实用程序。
 
+### 在线观看平台
+
+- [Global Free TV](https://www.globalfreetv.com/) 免费在线 IPTV 直播平台，7000+ 频道覆盖 150+ 国家，无需注册即可观看。
+- [IPTV-org Web Player](https://iptv-org.github.io/) 基于 iptv-org 源的在线播放器，支持多国频道搜索与播放。
+- [Plex Live TV](https://www.plex.tv/live-tv/) Plex 提供的免费直播电视服务，聚合新闻、体育、娱乐等频道。
+
 ### 监测工具
 
 - [直播源在线监测工具](http://cha.znds.com)
