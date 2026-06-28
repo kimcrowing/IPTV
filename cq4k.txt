@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视4K",北京卫视4K
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000425?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视4K",北京卫视4K(AC3)
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000426?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视4K",东方卫视4K
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000436?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视4K",广东卫视4K
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000432?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视4K",深圳卫视4K
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000431?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视4K",湖南卫视4K
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000439?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视4K",江苏卫视4K
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000438?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视4K",浙江卫视4K
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000437?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视4K",山东卫视4K
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000440?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视4K",四川卫视4K
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000441?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他4K",爱上4K
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000391?AuthInfo=xxx&amp;userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他4K",欢笑剧场4K
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000411?AuthInfo=xxx&amp;userid=
