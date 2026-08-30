@@ -1,0 +1,69 @@
+#EXTM3U name="重庆联通4K" x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz" x-tvg-url="https://epg.iill.top/epg.xml.gz"
+# 来源: mmaotv/cqcuiptv Gather.m3u (2026-02-22) + 重庆联通实测抓包 | 恩山论坛 2026-03-02
+# 更新: 2026-08-30 | 仅重庆联通网络可用 (单播RTSP需重庆联通公网/IPTV专网, 组播RTP需IPTV专网或udpxy)
+# 4K可用性: 已校验URI格式与ID映射, 外网无法直连属正常, 需在重庆联通内网用VLC/PotPlayer/ffprobe验证
+# 特别包含央视4K: 爱上4K (CCTV 4K, HEVC) + 卫视4K 11个频道
+
+# ==================== 央视频道 4K ====================
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K·央视",爱上4K HEVC [央视4K]
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000391?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K·央视-组播",爱上4K HEVC [组播]
+rtp://225.0.4.226:7980
+
+# ==================== 卫视 4K 单播 (RTSP) ====================
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K·卫视",北京卫视 4K HEVC HDR AAC
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000425?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K·卫视",北京卫视 4K HEVC HDR AC3
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000426?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="4K·卫视",东方卫视 4K HEVC HDR
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000436?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="4K·卫视",广东卫视 4K HEVC HDR
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000432?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="4K·卫视",湖南卫视 4K HEVC HDR
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000439?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="4K·卫视",江苏卫视 4K HEVC HDR
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000438?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="4K·卫视",山东卫视 4K HEVC HDR
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000440?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="4K·卫视",深圳卫视 4K HEVC HDR
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000431?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="4K·卫视",四川卫视 4K HEVC HDR
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000441?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="4K·卫视",浙江卫视 4K HEVC HDR
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000437?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghai.png" group-title="4K·卫视",上海欢笑剧场 4K HEVC
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=
+
+# ==================== 卫视 4K 组播 (RTP) ====================
+# 需IPTV专网或路由器udpxy转 http://路由器IP:4022/rtp/组播IP:端口 播放
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K·卫视-组播",北京卫视 4K HEVC HDR AAC [组播]
+rtp://225.0.4.123:7980
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K·卫视-组播",北京卫视 4K HEVC HDR AC3 [组播]
+rtp://225.0.4.122:7980
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="4K·卫视-组播",东方卫视 4K HEVC HDR [组播]
+rtp://225.0.4.103:7980
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="4K·卫视-组播",广东卫视 4K HEVC HDR [组播]
+rtp://225.0.4.102:7980
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="4K·卫视-组播",江苏卫视 4K HEVC HDR [组播]
+rtp://225.0.4.104:7980
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="4K·卫视-组播",山东卫视 4K HEVC HDR [组播]
+rtp://225.0.4.106:7980
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="4K·卫视-组播",深圳卫视 4K HEVC HDR [组播]
+rtp://225.0.4.101:7980
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="4K·卫视-组播",四川卫视 4K HEVC HDR [组播]
+rtp://225.0.4.108:7980
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="4K·卫视-组播",浙江卫视 4K HEVC HDR [组播]
+rtp://225.0.4.105:7980
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghai.png" group-title="4K·卫视-组播",上海欢笑剧场 4K HEVC [组播]
+rtp://225.0.4.234:7980
+# 湖南卫视4K 组播暂缺, 仅提供单播 (上游mmaotv/cqcuiptv未收录组播, 恩山网友反馈稳定)
+
+# ==================== 公网备用 4K (非重庆联通, 供外网测试) ====================
+# 以下为互联网可直连的4K源, 非重庆联通专网, 作为补充/对比, 央视4K为主
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K·公网",CCTV-4K 超高清 (公网备用)
+http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K·公网",爱上4K (移动公网备用)
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" group-title="4K·公网",纯享4K (公网备用)
+http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
+# 注意: 公网源稳定性依赖运营商, 建议优先使用上方重庆联通专网4K
